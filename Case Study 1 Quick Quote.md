@@ -1,13 +1,13 @@
 # Data-Science-Cases-Example
 This Repository contains 4 case studies and tries to demonstrate how to tackle a use case as a Data Science
 
-<h2> Case Study 1: Quick Quote - Insurance Industry-
+<h2> Case Study 1: Quick Quote - Insurance Industry- </h2>
 
 Brief Case Study Description:
 
 in this case study we want to develop a model to predict the price of car insurance as a quick quotation assistant. the labeled data has been provided through SQL servers and data sets are reletivly large.  
 
-<h4> Step 1- Get Data 
+<h4> Step 1- Get Data </h4>
 
 In this case study we assume the data is stored in a relatioanal Database so we need to use SQL to extract data 
 -- we use SQLALCHEMY to connect to sql servers and access data
