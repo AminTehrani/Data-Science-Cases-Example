@@ -1,4 +1,4 @@
-# Data-Science-Cases-Example
+ Data-Science-Cases-Example
 This Repository contains 4 case studies and tries to demonstrate how to tackle a use case as a Data Science
 
 <h2> Case Study 2: Loan Defult Prediction - Finance Industry- </h2>
