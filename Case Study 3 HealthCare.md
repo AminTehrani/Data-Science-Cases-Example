@@ -1,15 +1,16 @@
  Data-Science-Cases-Example
 This Repository contains 4 case studies and tries to demonstrate how to tackle a use case as a Data Science
 
-<h2> Case Study 2: Loan Defult Prediction - Finance Industry- </h2>
+<h2> Case Study 3: Support Clinical Decisions - HealthCare Industry- </h2>
 
 Brief Case Study Description:
 
-in this case study we want to develop a model to support clinical desicion based on 3 source of data 
-1- patent metrics like age, weight etc
-2- pation tests like cholesterol level, glucose level etc
-3- unstructured descriptions like medical state, previous drug descriptions etc
-
+in this case study we want to develop a model to support clinical decisions based on 3 source of data 
+<ol>
+<li> patent metrics like age, weight etc </li>
+<li> pation tests like cholesterol level, glucose level etc </li>
+<li> unstructured descriptions like medical state, previous drug descriptions etc </li>
+</ol>
 The labeled data has been provided through different comma seprated file 
 
 <h4> Step 1- Get Data </h4>
