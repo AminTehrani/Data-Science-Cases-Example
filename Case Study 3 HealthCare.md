@@ -33,7 +33,7 @@ Some of this plots are including histograms or distplots, violinplots, and pairp
 corrolated featurs 
 
 
-<h4> Step 4- Formulate Hypothesis </h4>
+<h4> Step 4- Formulate Hypothesis </h4> 
 
 In this step we try to identify the features correlated to the target feature. like age group, occupation group, cholglucose level etc
 
